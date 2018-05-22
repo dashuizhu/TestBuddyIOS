@@ -14,6 +14,15 @@
 		DE57B5DB20B3C120005B9CA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE57B5D920B3C120005B9CA2 /* LaunchScreen.storyboard */; };
 		DE57B5E620B3C120005B9CA2 /* TestBuddyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B5E520B3C120005B9CA2 /* TestBuddyTests.swift */; };
 		DE57B5F120B3C120005B9CA2 /* TestBuddyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B5F020B3C120005B9CA2 /* TestBuddyUITests.swift */; };
+		DE57B5FF20B3C20F005B9CA2 /* LogoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B5FE20B3C20F005B9CA2 /* LogoViewController.swift */; };
+		DE57B60120B3C5F1005B9CA2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60020B3C5F1005B9CA2 /* LoginViewController.swift */; };
+		DE57B60420B3E78A005B9CA2 /* GuideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60320B3E78A005B9CA2 /* GuideViewController.swift */; };
+		DE57B60620B3EF3B005B9CA2 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60520B3EF3B005B9CA2 /* RegisterViewController.swift */; };
+		DE57B60820B3EF72005B9CA2 /* ForgetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60720B3EF72005B9CA2 /* ForgetViewController.swift */; };
+		DE57B60A20B3F1E5005B9CA2 /* GuidePage1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60920B3F1E5005B9CA2 /* GuidePage1ViewController.swift */; };
+		DE57B60C20B3F265005B9CA2 /* GuidePage2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60B20B3F265005B9CA2 /* GuidePage2ViewController.swift */; };
+		DE57B60E20B3F27A005B9CA2 /* GuidePage3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60D20B3F27A005B9CA2 /* GuidePage3ViewController.swift */; };
+		DE57B61020B40B15005B9CA2 /* LoginNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE57B60F20B40B15005B9CA2 /* LoginNavigation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		DE57B5EC20B3C120005B9CA2 /* TestBuddyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestBuddyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE57B5F020B3C120005B9CA2 /* TestBuddyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBuddyUITests.swift; sourceTree = "<group>"; };
 		DE57B5F220B3C120005B9CA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE57B5FE20B3C20F005B9CA2 /* LogoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoViewController.swift; sourceTree = "<group>"; };
+		DE57B60020B3C5F1005B9CA2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		DE57B60320B3E78A005B9CA2 /* GuideViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideViewController.swift; sourceTree = "<group>"; };
+		DE57B60520B3EF3B005B9CA2 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		DE57B60720B3EF72005B9CA2 /* ForgetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgetViewController.swift; sourceTree = "<group>"; };
+		DE57B60920B3F1E5005B9CA2 /* GuidePage1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuidePage1ViewController.swift; sourceTree = "<group>"; };
+		DE57B60B20B3F265005B9CA2 /* GuidePage2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuidePage2ViewController.swift; sourceTree = "<group>"; };
+		DE57B60D20B3F27A005B9CA2 /* GuidePage3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuidePage3ViewController.swift; sourceTree = "<group>"; };
+		DE57B60F20B40B15005B9CA2 /* LoginNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginNavigation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +119,18 @@
 				DE57B5D220B3C11E005B9CA2 /* ViewController.swift */,
 				DE57B5D420B3C11E005B9CA2 /* Main.storyboard */,
 				DE57B5D720B3C120005B9CA2 /* Assets.xcassets */,
+				DE57B60220B3C650005B9CA2 /* buddy */,
 				DE57B5D920B3C120005B9CA2 /* LaunchScreen.storyboard */,
 				DE57B5DC20B3C120005B9CA2 /* Info.plist */,
+				DE57B5FE20B3C20F005B9CA2 /* LogoViewController.swift */,
+				DE57B60020B3C5F1005B9CA2 /* LoginViewController.swift */,
+				DE57B60320B3E78A005B9CA2 /* GuideViewController.swift */,
+				DE57B60520B3EF3B005B9CA2 /* RegisterViewController.swift */,
+				DE57B60720B3EF72005B9CA2 /* ForgetViewController.swift */,
+				DE57B60920B3F1E5005B9CA2 /* GuidePage1ViewController.swift */,
+				DE57B60B20B3F265005B9CA2 /* GuidePage2ViewController.swift */,
+				DE57B60D20B3F27A005B9CA2 /* GuidePage3ViewController.swift */,
+				DE57B60F20B40B15005B9CA2 /* LoginNavigation.swift */,
 			);
 			path = TestBuddy;
 			sourceTree = "<group>";
@@ -123,6 +151,13 @@
 				DE57B5F220B3C120005B9CA2 /* Info.plist */,
 			);
 			path = TestBuddyUITests;
+			sourceTree = "<group>";
+		};
+		DE57B60220B3C650005B9CA2 /* buddy */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = buddy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,8 +291,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE57B60120B3C5F1005B9CA2 /* LoginViewController.swift in Sources */,
 				DE57B5D320B3C11E005B9CA2 /* ViewController.swift in Sources */,
 				DE57B5D120B3C11E005B9CA2 /* AppDelegate.swift in Sources */,
+				DE57B60620B3EF3B005B9CA2 /* RegisterViewController.swift in Sources */,
+				DE57B61020B40B15005B9CA2 /* LoginNavigation.swift in Sources */,
+				DE57B60E20B3F27A005B9CA2 /* GuidePage3ViewController.swift in Sources */,
+				DE57B60A20B3F1E5005B9CA2 /* GuidePage1ViewController.swift in Sources */,
+				DE57B60820B3EF72005B9CA2 /* ForgetViewController.swift in Sources */,
+				DE57B60C20B3F265005B9CA2 /* GuidePage2ViewController.swift in Sources */,
+				DE57B60420B3E78A005B9CA2 /* GuideViewController.swift in Sources */,
+				DE57B5FF20B3C20F005B9CA2 /* LogoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
